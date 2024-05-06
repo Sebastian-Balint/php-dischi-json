@@ -1,0 +1,12 @@
+header {
+  background-color: #07131e;
+}
+
+main {
+  background-color: #1d2d3c;
+
+  & .card {
+    height: 480px;
+    background-color: #112131;
+  }
+}
